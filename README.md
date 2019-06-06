@@ -2,6 +2,16 @@ The following repository is for a Final Year Project. The files are meant for an
 
 http://www.coppeliarobotics.com/educational-licensing.html
 
+
+
+# Authors:
+
+Dr Muhammad Nouman - Supervisor [https://github.com/recluze - mohammad.nauman@nu.edu.pk]
+Faisal Khan - Project Leader    [https://github.com/lanrekkeeg - p156058@nu.edu.pk]
+Ahmad Awan - Project Programmer [https://github.com/amzshow - p156026@nu.edu.pk]
+
+
+
 # Instructions
 
 1. Download and Install V-Rep Pro Edu from their respective [website](http://www.coppeliarobotics.com/downloads.html).
